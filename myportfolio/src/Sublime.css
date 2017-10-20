@@ -1,0 +1,128 @@
+.bigbox{
+  margin-top: -3%;
+  width: 80%;
+  margin-left: 10%;
+  opacity: 0;
+  animation: reverseblinker ease-in forwards 1s;
+  animation-delay: 6s;
+}
+.exbox{
+  background-color: #EFEBE9;
+  border-bottom-style: groove;
+  border-left-style: groove;
+  border-right-style: groove;
+  margin-left: .1%;
+  margin-right: .1%;
+}
+
+.tabs{
+  background-color: #000;
+  border-right: ridge;
+  border-left: ridge;
+}
+
+.glyphicon-chevron-right, .glyphicon-chevron-left {
+  color: #BDBDBD;
+}
+.text-box{
+  background-color: #424242;
+  font-family: "Courier New", Monospace;
+  color: #fff;
+  height: 400px;
+  border-radius: 6px;
+  border-left-style: ridge;
+  border-right-style:ridge;
+  border-bottom-style:ridge;
+  
+}
+.number{
+  color: #BDBDBD;
+  padding-left: 3%;
+  padding-right: 3%;
+}
+.bashheader{
+  background-color: #EFEBE9;
+  border-bottom-style: groove;
+  border-radius: 5px;
+}
+.bashwindow{
+  background-color: #fff;
+  margin-top: 4%;
+  margin-left: 30%;
+  margin-bottom: 5%;
+  width: 400px;
+  height: 300px;
+  font-size: xx-small;
+  color: #000;
+  border-radius: 6px;
+  border-bottom-style: ridge;
+}
+.btn{
+  background-color: #616161;
+  font-family: "Courier New", Monospace;
+  width: 100px;
+  font-size: x-small;
+  border-color: #000;
+  color: #fff;
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+}
+.btn:hover{
+  background-color: #BDBDBD;
+}
+
+.glyphicon-remove-circle{
+  color: red;
+}
+
+.glyphicon-minus-sign{
+  color:orange;
+}
+
+.glyphicon-resize-full{
+  color: green;
+}
+
+.one:hover > .number , .two:hover > .number, .three:hover > .number, .four:hover >.number{
+  background-color: #616161;
+}
+
+.icons{
+  left: -1%;
+}
+.glyphicon {
+  padding-right: 2px;
+}
+
+@keyframes blinker{
+  from{
+    opacity: 1;
+  }
+  to{
+    opacity: 0;
+  }
+}
+@keyframes reverseblinker {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.blinker{
+  animation: blinker 1s infinite forwards;
+  font-size: medium;
+}
+
+.pic{
+  width: 200px;
+  top: 20px;
+  margin-top: 4%;
+  margin-left: 22%;
+  border-style: ridge;
+  border-width: 3px;
+}
+.components{
+}

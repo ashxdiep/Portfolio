@@ -1,0 +1,18 @@
+.project, .project1{
+	width: 100px;
+	padding: 5%;
+}
+
+.project:hover, .project1:hover{
+	border-style: dashed;
+	border-width: thin;
+	border-color: gray;
+}
+.project-container{
+	margin-top: 5%;
+	margin-left: 5%;
+}
+
+.project1{
+	margin-left: 20%;
+}

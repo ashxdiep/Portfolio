@@ -1,0 +1,20 @@
+WARNING: SVG input document uses 1 flow text elements, which won't render on browsers!
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="75.537mm" height="50.709mm" version="1.1" viewBox="0 0 75.537331 50.708656" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient3449" x1="34.751" x2="113.69" y1="-23.892" y2="-23.892" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#200" offset="0"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(-31.088 34.238)">
+  <text transform="scale(.93905 1.0649)" x="36.027222" y="-19.44294" style="fill-opacity:.91905;fill:#450000;font-family:sans-serif;font-size:13.36px;letter-spacing:0px;line-height:1.25;stroke-opacity:0;stroke-width:2.0182;stroke:url(#linearGradient3449);word-spacing:0px" xml:space="preserve"><tspan x="36.027222" y="-19.44294" style="fill-opacity:.91905;fill:#450000;font-family:Phosphate;stroke-opacity:0;stroke-width:2.0182;stroke:url(#linearGradient3449)">Welcome to</tspan><tspan x="36.027222" y="-2.7431893" style="fill-opacity:.91905;fill:#450000;font-family:Phosphate;stroke-opacity:0"/><tspan x="36.027222" y="13.956561" style="fill-opacity:.91905;fill:#450000;stroke-opacity:0"/></text>
+  <text transform="scale(1.0776 .92803)" x="52.560944" y="-5.901566" style="fill:#c83737;font-family:sans-serif;font-size:15.574px;letter-spacing:0px;line-height:1.25;stroke-width:.38935;word-spacing:0px" xml:space="preserve"><tspan x="52.560944" y="-5.901566" style="fill:#c83737;font-family:Phosphate;stroke-opacity:0;stroke-width:.38935;stroke:#fff000">my</tspan></text>
+  <text transform="scale(.96021 1.0414)" x="35.496468" y="12.174175" style="fill-opacity:.91765;fill:#450000;font-family:sans-serif;font-size:14.774px;letter-spacing:0px;line-height:1.25;stroke-opacity:0;stroke-width:.36936;stroke:#fff000;word-spacing:0px" xml:space="preserve"><tspan x="35.496468" y="12.174175" style="fill-opacity:.91765;fill:#450000;font-family:Phosphate;stroke-opacity:0;stroke-width:.36936;stroke:#fff000">Portfolio</tspan></text>
+  <rect x="31.18" y="-34.145" width="75.352" height="50.523" style="fill:none;stroke-opacity:0"/>
+  <rect x="31.18" y="-34.145" width="75.352" height="50.523" style="fill:none;stroke-opacity:0"/>
+  <rect x="25.891" y="-42.136" width="86.9" height="66.402" style="fill-opacity:0;stroke-opacity:0"/>
+  <rect x="19.828" y="-40.981" width="92.963" height="65.247" style="fill-opacity:0;stroke-opacity:0"/>
+  <rect x="19.828" y="-40.981" width="86.704" height="57.36" style="fill-opacity:0;stroke-opacity:0"/>
+  <flowRoot style="fill:black;font-family:sans-serif;font-size:40px;letter-spacing:0px;line-height:1.25;word-spacing:0px" xml:space="preserve"><flowRegion><rect x=".35" y=".35" width="320.45" height="181.48"/></flowRegion><flowPara/></flowRoot>
+ </g>
+</svg>
